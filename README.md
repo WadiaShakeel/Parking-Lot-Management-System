@@ -418,11 +418,11 @@ It demonstrates how these concepts can be combined to build a functional real-wo
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Wadia Shakeel**
 
 Computer Science Student
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/WadiaShakeel`
 
 ---
 
